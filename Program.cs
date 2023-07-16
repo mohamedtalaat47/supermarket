@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using supermarket;
+using supermarket.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 

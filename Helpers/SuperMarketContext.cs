@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Reflection.Emit;
 using Microsoft.EntityFrameworkCore;
 
-namespace supermarket
+namespace supermarket.Helpers
 {
 	public class SuperMarketContext : DbContext
 	{
